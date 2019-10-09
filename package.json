@@ -1,0 +1,27 @@
+{
+  "name": "jsfirewalld",
+  "version": "0.0.1",
+  "description": "A nodejs wrapper for firewall-cmd",
+  "main": "firewalld.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "sudo ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaojinn/jsfirewalld.git"
+  },
+  "keywords": [
+    "firewalld",
+    "firewall-cmd",
+    "firewall"
+  ],
+  "author": "jin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaojinn/jsfirewalld/issues"
+  },
+  "homepage": "https://github.com/chaojinn/jsfirewalld#readme"
+}
