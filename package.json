@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/chaojinn/jsfirewalld/issues"
   },
-  "homepage": "https://github.com/chaojinn/jsfirewalld#readme"
+  "homepage": "https://github.com/chaojinn/jsfirewalld#readme",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
 }
